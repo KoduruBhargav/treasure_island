@@ -1,1 +1,3 @@
 # treasure_island
+This project simulates a treasure hunt on an island. Users can input commands to navigate the island, and ultimately find the hidden treasure. The game is built using [python programming]
+Follow flow chart for understanding the game flow.
